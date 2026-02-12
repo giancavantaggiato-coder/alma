@@ -1,4 +1,6 @@
-import imgCompanyLogo from "figma:asset/91c6f4bb39b820ba4c5b66890346b0f48d74a13f.png";
+import imgCompanyLogo from "<div styleName={} />
+<assets />
+<logoalma></logoalma>
 
 interface NavbarProps {
   currentPage?: string;

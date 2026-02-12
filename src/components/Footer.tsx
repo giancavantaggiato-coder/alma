@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import imgCompanyLogo from "figma:asset/64b1c89f3bd3a9933dc022439b9a52a682a06397.png";
+import imgCompanyLogo from "<div styleName={} />
 
 interface FooterProps {
   navigateTo?: (page: string) => void;
